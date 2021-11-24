@@ -1,2 +1,2 @@
-# Trile-e
+# Trileçe
 patika.dev ödevi
